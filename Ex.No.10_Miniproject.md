@@ -182,5 +182,6 @@ void Update()
 <img width="1478" height="761" alt="image" src="https://github.com/user-attachments/assets/c6acff2b-a6f1-4d6f-b90c-f136c4f3c401" />
 
 <img width="1474" height="756" alt="image" src="https://github.com/user-attachments/assets/da620950-3b76-4f86-8e62-696e870672b7" />
+
 ### Result:
 Thus the game was developed using Unity and it is successfully executed.
