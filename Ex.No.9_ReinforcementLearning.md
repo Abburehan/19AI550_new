@@ -165,5 +165,6 @@ behaviors:
 <img width="519" height="320" alt="aifg-9a" src="https://github.com/user-attachments/assets/254b4907-15ac-4091-8915-9eeab3fccf59" />
 
 <img width="421" height="292" alt="aifg-9b" src="https://github.com/user-attachments/assets/b9789167-a176-4ddc-b001-861f0a9e4ae0" />
+
 ### Result:
 Thus the AI character was trained using reinforcement learning.
